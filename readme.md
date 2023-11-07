@@ -1,6 +1,7 @@
 # Advanced Typescript
 
 
-## Refs
+## Refs and thanks to
 
-- Used some information from https://www.youtube.com/@mattpocockuk
+- https://www.youtube.com/@mattpocockuk
+- https://dev.to/macsikora/
